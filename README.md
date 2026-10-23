@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👩‍💻 About Me
 
-<!--
-**PaoBru/PaoBru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Paola, a Colombian-trained lawyer transitioning into Information Technology.
 
-Here are some ideas to get you started:
+My legal background has equipped me with strong analytical, research, documentation, and problem-solving skills, which I'm now bringing into my IT career.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an incoming AI-Enabled IT Support student at Per Scholas, beginning November 2026. I also hold the Google Cybersecurity Professional Certificate and am currently preparing for CompTIA Security+.
+
+My focus is on building practical skills in IT support, troubleshooting, operating systems, networking, and cybersecurity.
+
+Through this portfolio, I'll document my hands-on learning, technical labs, and projects as I develop my skills throughout the Per Scholas program and beyond.
+
+🎯 Career Goal: Build a career in IT Support / Help Desk, with a long-term goal of transitioning into cybersecurity.
+
+🌎 Languages: Spanish (Native) | English
