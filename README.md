@@ -31,3 +31,72 @@ Through this portfolio, I'll document my hands-on learning, technical labs, and 
 </p>
 
 **Windows | Linux Mint**
+
+### 🌐 Networking Fundamentals
+
+TCP/IP • DNS • DHCP • IP Addressing
+
+### 🔐 Cybersecurity Fundamentals
+
+Access Control • MFA • Firewalls • Security Hardening
+
+### 🛠️ IT Support Fundamentals
+
+Troubleshooting • System Updates • Technical Documentation
+
+---
+
+## 📂 Featured Projects
+
+🚧 **Projects in Progress**
+
+I'm currently building my technical portfolio as I prepare to begin the AI-Enabled IT Support program at Per Scholas.
+
+This section will showcase hands-on labs, troubleshooting exercises, and technical projects as I continue developing my IT skills.
+
+---
+
+## 🎓 Education & Certifications
+
+### 🏫 Professional Training
+
+**Per Scholas — AI-Enabled IT Support**  
+📅 Incoming Student | November 2026
+
+### 🏆 Professional Certificate
+
+<a href="https://coursera.org/share/78fec526212be5489c6f83154dff6f59">
+  <strong>🏅 View Google Cybersecurity Certificate ↗</strong>
+</a>
+
+**Google Cybersecurity Professional Certificate**  
+Google / Coursera | May 2024
+
+### 💻 IT & Technical Training
+
+**Cisco**
+- Operating Systems Basics
+- Computer Hardware Basics
+
+**LinkedIn Learning**
+- Networking and Administration Fundamentals
+- Microsoft Azure Fundamentals (AZ-900) Exam Prep
+
+**Google**
+- Tools of the Trade: Linux and SQL
+
+### 📚 Currently Preparing
+
+**CompTIA Security+ (SY0-701)**
+
+### ⚖️ Previous Education
+
+**Law Degree — Colombia**
+
+---
+
+## 📬 Connect With Me
+
+I'm always open to connecting with IT professionals, learning from others, and exploring opportunities in Information Technology.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paola-bruno/)
