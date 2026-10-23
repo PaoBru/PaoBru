@@ -17,3 +17,17 @@ Through this portfolio, I'll document my hands-on learning, technical labs, and 
 🎯 Career Goal: Build a career in IT Support / Help Desk, with a long-term goal of transitioning into cybersecurity.
 
 🌎 Languages: Spanish (Native) | English
+
+---
+
+## 🛠️ Technical Skills & Currently Learning
+
+### 🖥️ Operating Systems
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="45" height="45" alt="Windows 11" title="Windows 11"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux"/>
+</p>
+
+**Windows | Linux Mint**
