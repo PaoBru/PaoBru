@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="ChatGPT%20Image%20Oct%2023%2C%202026%2C%2011_31_09%20AM.png" width="100%" alt="IT Support Portfolio Banner">
+  <img src="Aspiring%20IT%20Support%20Professional%20Banner.png" width="100%" alt="IT Support Portfolio Banner">
 </p>
 
 ## About Me
+
 Hi! I’m Paola, a Colombian-trained lawyer transitioning into Information Technology, with a focus on IT Support and Help Desk.
 
 My legal background brings strong analytical thinking, problem-solving, communication, and documentation skills to my IT career.
