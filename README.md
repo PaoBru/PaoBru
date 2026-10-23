@@ -3,16 +3,13 @@
 </p>
 
 ## About Me
+Hi! I’m Paola, a Colombian-trained lawyer transitioning into Information Technology, with a focus on IT Support and Help Desk.
 
-Hi! I'm Paola, a Colombian-trained lawyer transitioning into Information Technology.
+My legal background brings strong analytical thinking, problem-solving, communication, and documentation skills to my IT career.
 
-My legal background has equipped me with strong analytical, research, documentation, and problem-solving skills, which I'm now bringing into my IT career.
+I hold the Google Cybersecurity Professional Certificate, am currently preparing for CompTIA Security+ (SY0-701), and will begin the AI-Enabled IT Support program at Per Scholas in November 2026.
 
-I'm an incoming AI-Enabled IT Support student at Per Scholas, beginning November 2026. I also hold the Google Cybersecurity Professional Certificate and am currently preparing for CompTIA Security+.
-
-My focus is on building practical skills in IT support, troubleshooting, operating systems, networking, and cybersecurity.
-
-Through this portfolio, I'll document my hands-on learning, technical labs, and projects as I develop my skills throughout the Per Scholas program and beyond.
+I’m building hands-on experience in operating systems, troubleshooting, networking, and cybersecurity. Through this portfolio, I document my technical projects and continuous learning.
 
 🎯 Career Goal: Build a career in IT Support / Help Desk, with a long-term goal of transitioning into cybersecurity.
 
@@ -40,8 +37,6 @@ Windows | Linux Mint
 **IT Support:** Troubleshooting · System Updates · Technical Documentation
 
 ---
----
-
 ## Featured Projects
 
 ### Linux Mint Installation & Troubleshooting
@@ -53,44 +48,21 @@ Gained hands-on experience with operating system installation, system configurat
 **Status:** Documentation in progress.
 
 ---
----
-
 ## Education & Certifications
 
-### Professional Training
+| Institution | Program / Certification | Status |
+|---|---|---|
+| Per Scholas | AI-Enabled IT Support | Starting Nov 2026 |
+| Google | [Cybersecurity Professional Certificate](https://coursera.org/share/78fec526212be5489c6f83154dff6f59) | Completed |
+| Cisco | Operating Systems Basics | Completed |
+| Cisco | Computer Hardware Basics | Completed |
+| LinkedIn Learning | Networking and Administration Fundamentals | Completed |
+| CompTIA | Security+ (SY0-701) | In Preparation |
 
-**Per Scholas | AI-Enabled IT Support**  
-Incoming Student — November 2026
-
-### Certifications
-
-**Google Cybersecurity Professional Certificate**  
-Google / Coursera | May 2024  
-[View Credential](https://coursera.org/share/78fec526212be5489c6f83154dff6f59)
-
-### Additional Technical Training
-
-**Cisco**
-- Operating Systems Basics
-- Computer Hardware Basics
-
-**LinkedIn Learning**
-- Networking and Administration Fundamentals
-- Microsoft Azure Fundamentals (AZ-900) Exam Prep
-
-**Google**
-- Tools of the Trade: Linux and SQL
-
-### Currently Preparing
-
-**CompTIA Security+ (SY0-701)**
-
-### Previous Education
-
-**Law Degree | Colombia**
+**Previous Education:** Law Degree — Colombia
 
 
-## 📬 Connect With Me
+## Connect With Me
 
 I'm always open to connecting with IT professionals, learning from others, and exploring opportunities in Information Technology.
 
